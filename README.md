@@ -5,7 +5,7 @@
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
 This repository contains solutions to the [C++ domain](https://www.hackerrank.com/domains/cpp) 
-part of HackerRank. My HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
+part of HackerRank. My HackerRank profile can be viewed [here](https://www.hackerrank.com/bhushanshrirame2).
 
 The C++ Domain is further Divided into the following sub-domains. 
 
